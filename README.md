@@ -1,7 +1,7 @@
-# 🌐 Portfolio Website — Tech Support Engineer (Fresher)
+# 🌐 Portfolio Website — Software Engineer (Fresher)
 
 This is my personal **Portfolio Website** created using **HTML, CSS, and JavaScript**.  
-It is designed for a **fresher / entry-level Tech Support Engineer**, showcasing my skills, experience, and projects.
+It is designed for a **fresher / entry-level Software Engineer**, showcasing my skills, experience, and projects.
 
 ---
 
@@ -13,7 +13,7 @@ It is designed for a **fresher / entry-level Tech Support Engineer**, showcasing
 ## ✨ Features
 - Responsive design (mobile-friendly)
 - Hero section with intro & photo
-- Skills section (Tech Support, Networking, Troubleshooting, Customer Support, Ticketing tools)
+- Skills section (Full-Stack Development, Windows & Linux Basics, Networking Fundamentals, Database Management, Frontend Engineering)
 - Experience section (“What I Can Do” checklist)
 - Projects showcase
 - Contact form
